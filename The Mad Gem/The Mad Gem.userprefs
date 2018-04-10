@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelChange2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelChange.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scripts/PlayerCollisions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/chase.cs" Line="56" Column="5" />
+      <File FileName="Assets/Scripts/Wander.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelChange2.cs" Line="20" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

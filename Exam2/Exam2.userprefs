@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Monkey.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMount.cs" Line="77" Column="3" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="23" Column="39" />
+      <File FileName="Assets/Scripts/CollisionGuy.cs" Line="1" Column="14" />
+      <File FileName="Assets/Scripts/Monkey.cs" Line="26" Column="23" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="18" Column="38" />
+      <File FileName="Assets/Scripts/Sway.cs" Line="23" Column="3" />
+      <File FileName="Assets/Scripts/Shoot.cs" Line="16" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

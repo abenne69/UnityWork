@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolcanoGuy", "Assembly-CSharp-firstpass.csproj", "{151C166D-D110-1D6D-0C37-4E74B6A6EB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolcanoGuy", "Assembly-CSharp.csproj", "{02236638-357F-3230-E15C-FC1AA1730720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolcanoGuy", "Assembly-CSharp-Editor-firstpass.csproj", "{4857CDDE-22A1-F080-ADF6-8B2DB5CC4444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151C166D-D110-1D6D-0C37-4E74B6A6EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C166D-D110-1D6D-0C37-4E74B6A6EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C166D-D110-1D6D-0C37-4E74B6A6EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151C166D-D110-1D6D-0C37-4E74B6A6EB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02236638-357F-3230-E15C-FC1AA1730720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02236638-357F-3230-E15C-FC1AA1730720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02236638-357F-3230-E15C-FC1AA1730720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02236638-357F-3230-E15C-FC1AA1730720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4857CDDE-22A1-F080-ADF6-8B2DB5CC4444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4857CDDE-22A1-F080-ADF6-8B2DB5CC4444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4857CDDE-22A1-F080-ADF6-8B2DB5CC4444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4857CDDE-22A1-F080-ADF6-8B2DB5CC4444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
